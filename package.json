@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "The Bridge <thebridgepsg@gmail.com>",
+  "homepage": "https://thebridge.psgtech.ac.in/sudoku",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.2",
